@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Permanent Notes</string>
+    <string name="exp_mail">EXPORT/MAIL</string>
+    <string name="imp_mail">IMPORT/MAIL</string>
+    <string name="exp_file">EXPORT/FILE</string>
+    <string name="imp_file">IMPORT/FILE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="rec_deleted">Record Deleted</string>
+    <string name="del_confirmation">Do you really want to Delete?</string>
+    <string name="del_title">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+    <string name="folder">Folder</string>
+    <string name="imp_export">Import/Export</string>
+
+    <string name="fields_required">All Fields are required</string>
+    <string name="folder_add">Folder added</string>
+    <string name="folder_up">Folder updated</string>
+    <string name="note_add">Note added</string>
+    <string name="note_up">Note updated</string>
+    <string name="mail_title">Permanent Notes Backup </string>
+    <string name="data_file_msg">Data file generated</string>
+    <string name="error_file">Error generating file</string>
+    <string name="error_file_load">Error loading file</string>
+</resources>

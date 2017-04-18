@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas Permanentes</string>
+    <string name="exp_mail">Exportar/Correo</string>
+    <string name="imp_mail">Importar/Correo</string>
+    <string name="exp_file">Exportar/Archivo</string>
+    <string name="imp_file">Importar/Archivo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="rec_deleted">Registro borrado</string>
+    <string name="del_confirmation">Realmente quieres borrarlo?</string>
+    <string name="del_title">Borrar</string>
+    <string name="delete">Borrar</string>
+    <string name="update">Actualizar</string>
+    <string name="add">Agregar</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descripcion</string>
+    <string name="back">Regresar</string>
+    <string name="folder">Folder</string>
+    <string name="imp_export">Importar/Exportar</string>
+
+    <string name="fields_required">Todos los campos son requeridos</string>
+    <string name="folder_add">Folder agregado</string>
+    <string name="folder_up">Folder Actualizado</string>
+    <string name="note_add">Nota agregada</string>
+    <string name="note_up">Nota Actualizada</string>
+    <string name="mail_title">Respaldo de Notas</string>
+    <string name="data_file_msg">Archivo de Datos generado</string>
+    <string name="error_file">Error generando el Archivo</string>
+    <string name="error_file_load">Error cargando el archivo</string>
+
+</resources>

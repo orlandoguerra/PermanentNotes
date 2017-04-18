@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/back"
+        android:orderInCategory="1"
+        android:id="@+id/main_back"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/back"/>
+    <item android:title="@string/folder"
+        android:orderInCategory="3"
+        android:id="@+id/main_addfolder"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/add"/>
+    <item android:title="@string/imp_export"
+        android:orderInCategory="4"
+        android:id="@+id/main_import"
+        app:showAsAction="never"
+        android:icon="@drawable/importinfo"/>
+</menu>
